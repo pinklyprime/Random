@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fd990117-8fcd-4b4f-9455-9da61c477957/resourceGroups/ThomasAtkin/providers/Microsoft.Web/sites/ThomasAtkin",
+    "appService.deploySubpath": "dist\\ThomasAtkin"
+}
